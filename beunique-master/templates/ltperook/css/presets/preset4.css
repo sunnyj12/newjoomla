@@ -1,0 +1,148 @@
+a {
+  color: #fcba30;
+}
+a:hover {
+  color: #0e9cd1;
+}
+.sp-megamenu-parent >li.active>a,
+.sp-megamenu-parent >li:hover>a {
+  color: #fcba30;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:hover {
+  background: #fcba30;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a {
+  color: #fcba30;
+}
+#offcanvas-toggler >i {
+  color: #fff;
+}
+#offcanvas-toggler >i:hover {
+  color: #fcba30;
+}
+.btn-primary,
+.sppb-btn-primary {
+  border-color: #0faae4;
+  background-color: #fcba30;
+}
+.btn-primary:hover,
+.sppb-btn-primary:hover {
+  border-color: #0d8ab9;
+  background-color: #0e9cd1;
+}
+ul.social-icons >li a:hover {
+  color: #fcba30;
+}
+.sp-page-title {
+  background: #fcba30;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.sp-module ul >li >a {
+  color: #000000;
+}
+.sp-module ul >li >a:hover {
+  color: #fcba30;
+}
+.sp-module .latestnews >div >a {
+  color: #000000;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #fcba30;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #fcba30;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: #fcba30;
+}
+.search .btn-toolbar button {
+  background: #fcba30;
+}
+.post-format {
+  background: #fcba30;
+}
+.voting-symbol span.star.active:before {
+  color: #fcba30;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #0e9cd1;
+}
+.entry-link,
+.entry-quote {
+  background: #fcba30;
+}
+blockquote {
+  border-color: #fcba30;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #fcba30;
+}
+#sp-footer {
+  background: #fcba30;
+}
+.sp-comingsoon body {
+  background-color: #fcba30;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #000000;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #000000;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: #fcba30;
+  background-color: #fcba30;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: #fcba30;
+  background-color: #fcba30;
+}
+.projects-filter a.selected, .projects-filter a.selected:hover,
+.lt-slider .button,
+.lt-intro-item .button,
+.lt-feature-item .button:hover,
+.lt-about-tab .button,
+.lt-categories .button,
+.lt-team-item ul li,
+.lt-client,
+span.addtocart-button input.addtocart-button {
+  background: #fcba30;
+}
+.lt-intro-item:hover h4,
+.lt-categories ul.vm-categories-wall li:hover .vm-categories-wall-catname,
+.lt-team-item h4,
+#sp-bottom a:hover,
+#sp-bottom .sp-module-title {
+  color: #fcba30; 
+}
+.lt-slider .button,
+.lt-feature-item .button:hover,
+.lt-categories ul.vm-categories-wall li:hover img {
+  border-color: #fcba30;
+}
+/* Important */
+.projects-filter a.selected, 
+.projects-filter a.selected:hover,
+.projects-filter a:hover,
+#sppb-addon-1492482380973 .sppb-nav-pills > li > a:hover,
+#sppb-addon-1492482380973 .sppb-nav-pills > li.active > a, 
+#sppb-addon-1492482380973 .sppb-nav-pills > li.active > a:hover, 
+#sppb-addon-1492482380973 .sppb-nav-pills > li.active > a:focus {
+  background: #fcba30!important;  
+}
+.projects-wrapper .project-img:hover .project-img-extra {
+    background: rgba(252, 186, 48, .7)!important;
+}

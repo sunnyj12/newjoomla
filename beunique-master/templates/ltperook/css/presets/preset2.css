@@ -1,0 +1,148 @@
+a {
+  color: #aaa555;
+}
+a:hover {
+  color: #0e9cd1;
+}
+.sp-megamenu-parent >li.active>a,
+.sp-megamenu-parent >li:hover>a {
+  color: #aaa555;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:hover {
+  background: #aaa555;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a {
+  color: #aaa555;
+}
+#offcanvas-toggler >i {
+  color: #fff;
+}
+#offcanvas-toggler >i:hover {
+  color: #aaa555;
+}
+.btn-primary,
+.sppb-btn-primary {
+  border-color: #0faae4;
+  background-color: #aaa555;
+}
+.btn-primary:hover,
+.sppb-btn-primary:hover {
+  border-color: #0d8ab9;
+  background-color: #0e9cd1;
+}
+ul.social-icons >li a:hover {
+  color: #aaa555;
+}
+.sp-page-title {
+  background: #aaa555;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.sp-module ul >li >a {
+  color: #000000;
+}
+.sp-module ul >li >a:hover {
+  color: #aaa555;
+}
+.sp-module .latestnews >div >a {
+  color: #000000;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #aaa555;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #aaa555;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: #aaa555;
+}
+.search .btn-toolbar button {
+  background: #aaa555;
+}
+.post-format {
+  background: #aaa555;
+}
+.voting-symbol span.star.active:before {
+  color: #aaa555;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #0e9cd1;
+}
+.entry-link,
+.entry-quote {
+  background: #aaa555;
+}
+blockquote {
+  border-color: #aaa555;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #aaa555;
+}
+#sp-footer {
+  background: #aaa555;
+}
+.sp-comingsoon body {
+  background-color: #aaa555;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #000000;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #000000;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: #aaa555;
+  background-color: #aaa555;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: #aaa555;
+  background-color: #aaa555;
+}
+.projects-filter a.selected, .projects-filter a.selected:hover,
+.lt-slider .button,
+.lt-intro-item .button,
+.lt-feature-item .button:hover,
+.lt-about-tab .button,
+.lt-categories .button,
+.lt-team-item ul li,
+.lt-client,
+span.addtocart-button input.addtocart-button {
+  background: #aaa555;
+}
+.lt-intro-item:hover h4,
+.lt-categories ul.vm-categories-wall li:hover .vm-categories-wall-catname,
+.lt-team-item h4,
+#sp-bottom a:hover,
+#sp-bottom .sp-module-title {
+  color: #aaa555; 
+}
+.lt-slider .button,
+.lt-feature-item .button:hover,
+.lt-categories ul.vm-categories-wall li:hover img {
+  border-color: #aaa555;
+}
+/* Important */
+.projects-filter a.selected, 
+.projects-filter a.selected:hover,
+.projects-filter a:hover,
+#sppb-addon-1492482380973 .sppb-nav-pills > li > a:hover,
+#sppb-addon-1492482380973 .sppb-nav-pills > li.active > a, 
+#sppb-addon-1492482380973 .sppb-nav-pills > li.active > a:hover, 
+#sppb-addon-1492482380973 .sppb-nav-pills > li.active > a:focus {
+  background: #aaa555!important;  
+}
+.projects-wrapper .project-img:hover .project-img-extra {
+    background: rgba(170, 165, 85, .7)!important;
+}
